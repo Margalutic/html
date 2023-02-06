@@ -1,0 +1,44 @@
+
+.bi{
+    background-image: url(https://phonoteka.org/uploads/posts/2021-03/1616520504_4-p-fon-dlya-prezentatsii-les-4.jpg);
+}
+.df{
+display: flex;
+
+}
+.tac{
+text-align: center;
+}
+.m30{
+    margin: 30px;
+}
+.h50{
+height: 50px;
+}
+.w150{
+    width: 150px;
+}
+.br10{
+    border-radius: 10px;
+}
+.two{
+    display: flex;
+
+
+}
+.bi1{
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612607182_117-p-fon-temno-zelenii-les-207.jpg);
+}
+.bi2{
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612621179_29-p-fon-na-rabochii-stol-zelenii-les-50.jpg);
+}
+.h300{
+    height: 300px;
+}
+.w300{
+    width: 300px;
+}
+.m5{
+    margin: 5px;
+}
+
